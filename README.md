@@ -134,7 +134,3 @@ Run the included test suite:
 python test_mcp.py
 ```
 
----
-
-## 📄 License
-MIT License
