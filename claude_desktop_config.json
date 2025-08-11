@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "IPLMCP": {
+      "command": "python",
+      "args": [
+        "D:/Data/iplmcp/main.py"
+      ]
+    }
+  }
+}
